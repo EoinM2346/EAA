@@ -2,4 +2,4 @@
 
 read var 
 
-echo `date +%D` $var >> diary.txt
+echo `date +%D-%r` $var >> diary.txt
